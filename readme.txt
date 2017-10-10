@@ -6,3 +6,4 @@ git create branch is quick!.
 git branch is work here.
 git push branch test.
 git this is myself add.
+git this is the partner.
