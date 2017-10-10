@@ -2,4 +2,4 @@ git is a distributed version control system.
 git is free sortware distributed under the GPL.
 git has a mutable index called stage.
 git tracks changes of file.
-git create branch is quick.
+git create branch is quick!.
